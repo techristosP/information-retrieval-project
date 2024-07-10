@@ -1,6 +1,4 @@
 .idea/
-.vscode/
-res/
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
